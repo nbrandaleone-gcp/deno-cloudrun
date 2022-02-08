@@ -13,3 +13,7 @@ Press the button below to deploy this application to Google Cloud Run.
 ``` shell
 deno run --allow-net main.ts
 ```
+
+## Appendix
+1. [Cloud Run Button Blog](https://cloud.google.com/blog/products/serverless/introducing-cloud-run-button-click-to-deploy-your-git-repos-to-google-cloud)
+2. [Cloud Run Button Git Repo](https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme)
